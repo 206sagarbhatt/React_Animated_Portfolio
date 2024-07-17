@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "KickBoots E-Commerce",
+    "imageSrc": "/assets/projects/kickboots.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "React Recipe",
+    "imageSrc": "/assets/projects/recipe.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "MedAI Care",
+    "imageSrc": "/assets/projects/medaicare.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

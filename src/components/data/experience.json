@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "role": "Octanet",
+      "organisation": "Octanet",
+      "startDate": "June, 2023",
+      "endDate": "July, 2023",
+      "location": "Remote",
+      "experiences": [
+        "Worked on real time project and created a clone of BookMyShow web application.",
+        "Technologies: HTML5, CSS3, React and MySQL."
+      ],
+      "imageSrc": "company/octanet.png"
+    },
+    {
+      "id": 2,
+      "role": "Code4Cause Hackathon",
+      "organisation": "Code4Cause",
+      "startDate": "Dec, 2023",
+      "location": "Maharaja Surajmal Institute of Technology",
+      "experiences": [
+        "Worked as a front-end web developer",
+        " Utilize deep learning models to analyze medical images (X-rays, MRIs, CT scans) for early detection of diseases like cancer, fractures, and other anomalies."
+      ],
+      "imageSrc": "company/code4cause.png"
+    },
+    {
+      "id": 3,
+      "role": "Cisco Cyber Threat Management Course",
+      "organisation": "CISCO",
+      "startDate": "Mar, 2024",
+      "endDate": "Apr, 2024",
+      "location": "Online Course",
+      "experiences": [
+        "Gained expertise in identifying, analyzing, and mitigating cyber threats.",
+        "Developed skills in using Cisco tools for network security and incident response."
+      ],
+      "imageSrc": "company/cisco.png"
+    }
+  ]
